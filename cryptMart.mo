@@ -1,3 +1,8 @@
+/*
+  the idea is to create a crypto market web application, where people buy stuffs, gets it delivered and pay with crypto. a fully decentralized online store.
+  this is just a database for the admin user to store the product details they have and retrieve some information about the product.
+*/
+
 import Buffer "mo:base/Buffer";
 import {toText} "mo:base/Nat";
 
